@@ -1,2 +1,2 @@
 # Azure2OCV
-Converting the azure stream to OpenCV Mat
+Converting the kinect 4 azure stream to OpenCV Mat
