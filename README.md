@@ -1,7 +1,7 @@
 # Azure2OCV
 Converting the kinect 4 azure stream to OpenCV Mat
 
-This code can be used for writing the RGB, IR and depth images on the disk, or for futher processing using OpenCV library.
+This code can be used for writing the RGB, IR and depth images on the disk, or for further processing using OpenCV library.
 
 
 
